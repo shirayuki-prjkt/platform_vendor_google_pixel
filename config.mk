@@ -20,7 +20,8 @@ PRODUCT_PACKAGES += \
     PixelFrameworksOverlay \
     PixelSystemUIOverlay
 
-# Sounds
-PRODUCT_PRODUCT_PROPERTIES += \
+# Set default ringtone, notification and alarm
+PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.alarm_alert=Bright_morning.ogg \
-    ro.config.notification_sound=End_note.ogg
+    ro.config.ringtone=The_big_adventure.ogg \
+    ro.config.notification_sound=Popcorn.ogg
