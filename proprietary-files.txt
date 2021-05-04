@@ -58,16 +58,13 @@ product/media/audio/ui/audio_end.ogg
 product/media/audio/ui/audio_initiate.ogg
 product/media/audio/ui/camera_click.ogg
 product/media/audio/ui/camera_focus.ogg
-product/media/audio/ui/ChargingStarted.ogg
 product/media/audio/ui/Dock.ogg
-product/media/audio/ui/Effect_Tick.ogg
 product/media/audio/ui/InCallNotification.ogg
 product/media/audio/ui/KeypressDelete.ogg
 product/media/audio/ui/KeypressInvalid.ogg
 product/media/audio/ui/KeypressReturn.ogg
 product/media/audio/ui/KeypressSpacebar.ogg
 product/media/audio/ui/KeypressStandard.ogg
-product/media/audio/ui/Lock.ogg
 product/media/audio/ui/LowBattery.ogg
 product/media/audio/ui/NFCFailure.ogg
 product/media/audio/ui/NFCInitiated.ogg
@@ -76,7 +73,6 @@ product/media/audio/ui/NFCTransferComplete.ogg
 product/media/audio/ui/NFCTransferInitiated.ogg
 product/media/audio/ui/Trusted.ogg
 product/media/audio/ui/Undock.ogg
-product/media/audio/ui/Unlock.ogg
 product/media/audio/ui/VideoRecord.ogg
 product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
@@ -84,3 +80,9 @@ product/media/audio/ui/reverse_charging_end.ogg
 product/media/audio/ui/reverse_charging_start.ogg
 -product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
 -product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk;PRESIGNED
+
+# Modified sounds
+product/media/audio/ui/ChargingStarted.ogg|a1794d1fdfa53620cd8b28160db1711ba10769d0
+product/media/audio/ui/Effect_Tick.ogg|ee275d1e0e4f71a85f198b64a84665c197ef9c7c
+product/media/audio/ui/Lock.ogg|bdfa4293518563ba246948591f95f2bf9026f8d2
+product/media/audio/ui/Unlock.ogg|eb399a91fe42fa63c6a054ce3d5fbdbbc502355b
