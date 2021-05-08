@@ -81,8 +81,8 @@ product/media/audio/ui/reverse_charging_start.ogg
 -product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
 -product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk;PRESIGNED
 
-# Modified sounds
-product/media/audio/ui/ChargingStarted.ogg|a1794d1fdfa53620cd8b28160db1711ba10769d0
-product/media/audio/ui/Effect_Tick.ogg|ee275d1e0e4f71a85f198b64a84665c197ef9c7c
-product/media/audio/ui/Lock.ogg|bdfa4293518563ba246948591f95f2bf9026f8d2
-product/media/audio/ui/Unlock.ogg|eb399a91fe42fa63c6a054ce3d5fbdbbc502355b
+# AOSP Sounds
+product/media/audio/ui/ChargingStarted.ogg|244609b38b825ce3c6e9e2a3e6b2b5f6ecac6ef8
+product/media/audio/ui/Effect_Tick.ogg|b8b51032e8baed863ba1667192f32586200f99b5
+product/media/audio/ui/Lock.ogg|c1d83d37aeff93a0e0e340297059536e5ca42e9d
+product/media/audio/ui/Unlock.ogg|942f421c14f2b024fa648ef85cd5dbf4d53550f7
