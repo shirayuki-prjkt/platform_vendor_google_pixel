@@ -1,19 +1,13 @@
 -product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
 -product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED
-product/etc/default-permissions/default-permissions.xml
 product/etc/permissions/privapp-permissions-google-p.xml
 product/etc/res/images/charger/battery_fail.png
 product/etc/res/images/charger/battery_scale.png
 product/etc/res/images/charger/main_font.png
 product/etc/res/values/charger/animation.txt
+product/etc/sysconfig/google_build.xml
 product/etc/sysconfig/google.xml
-product/fonts/GoogleSans-BoldItalic.ttf
-product/fonts/GoogleSans-Bold.ttf
-product/fonts/GoogleSans-Italic.ttf
-product/fonts/GoogleSans-MediumItalic.ttf
-product/fonts/GoogleSans-Medium.ttf
-product/fonts/GoogleSans-Regular.ttf
-product/lib64/libsketchology_native.so
+product/etc/sysconfig/nexus.xml
 product/media/audio/alarms/A_real_hoot.ogg
 product/media/audio/alarms/Bright_morning.ogg
 product/media/audio/alarms/Cuckoo_clock.ogg
@@ -77,8 +71,7 @@ product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
 product/media/audio/ui/reverse_charging_end.ogg
 product/media/audio/ui/reverse_charging_start.ogg
--product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
--product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk;PRESIGNED
+-product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk;PRESIGNED
 
 # AOSP Sounds
 product/media/audio/ui/ChargingStarted.ogg|244609b38b825ce3c6e9e2a3e6b2b5f6ecac6ef8
