@@ -197,4 +197,8 @@
 
     <!-- Whether this device is supporting the camera toggle -->
     <bool name="config_supportsCamToggle" translatable="false">true</bool>
+
+    <!-- The app which will handle routine based automatic battery saver, if empty the UI for
+         routine based battery saver will be hidden -->
+    <string name="config_batterySaverScheduleProvider" translatable="false">com.google.android.apps.turbo</string>
 </resources>
