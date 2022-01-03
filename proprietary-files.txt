@@ -89,6 +89,7 @@ product/media/audio/ui/WirelessChargingStarted.ogg
 -product/priv-app/DevicePersonalizationPrebuiltPixel2021/DevicePersonalizationPrebuiltPixel2021.apk;PRESIGNED
 -product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;OVERRIDES=SettingsIntelligence;PRESIGNED
 -product/priv-app/TurboPrebuilt/TurboPrebuilt.apk;PRESIGNED
+system/etc/sysconfig/pixel_2016_exclusive.xml
 system_ext/etc/permissions/privapp-permissions-google-se.xml
 -system_ext/priv-app/TurboAdapter/TurboAdapter.apk
 
