@@ -105,4 +105,5 @@ PRODUCT_PACKAGES += \
     DevicePersonalizationPrebuiltPixel2021 \
     SettingsIntelligenceGooglePrebuilt \
     TurboPrebuilt \
+    Flipendo \
     TurboAdapter

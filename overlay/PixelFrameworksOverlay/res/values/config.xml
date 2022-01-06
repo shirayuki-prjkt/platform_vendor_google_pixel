@@ -201,4 +201,8 @@
     <!-- The app which will handle routine based automatic battery saver, if empty the UI for
          routine based battery saver will be hidden -->
     <string name="config_batterySaverScheduleProvider" translatable="false">com.google.android.apps.turbo</string>
+
+    <!-- Package name that will receive an explicit manifest broadcast for
+         android.os.action.POWER_SAVE_MODE_CHANGED. -->
+    <string name="config_powerSaveModeChangedListenerPackage" translatable="false">com.google.android.flipendo</string>
 </resources>
