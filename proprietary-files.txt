@@ -91,7 +91,9 @@ product/media/audio/ui/WirelessChargingStarted.ogg
 -product/priv-app/TurboPrebuilt/TurboPrebuilt.apk;PRESIGNED
 system_ext/etc/permissions/privapp-permissions-google-se.xml
 -system_ext/app/Flipendo/Flipendo.apk
--system_ext/priv-app/TurboAdapter/TurboAdapter.apk
+
+# TurboAdapter without google_battery
+-system_ext/priv-app/TurboAdapter/TurboAdapter.apk|8fab19f12a1652c014084e80de7112487aece38a
 
 # AOSP Sounds
 product/media/audio/ui/ChargingStarted.ogg|244609b38b825ce3c6e9e2a3e6b2b5f6ecac6ef8
