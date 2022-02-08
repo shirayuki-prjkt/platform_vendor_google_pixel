@@ -27,3 +27,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=Your_new_adventure.ogg \
     ro.config.notification_sound=Eureka.ogg \
     ro.config.alarm_alert=Fresh_start.ogg
+
+BOARD_VENDOR_SEPOLICY_DIRS += \
+    vendor/google/pixel/sepolicy
