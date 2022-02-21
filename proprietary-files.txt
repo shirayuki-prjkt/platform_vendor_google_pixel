@@ -16,6 +16,7 @@ product/etc/sysconfig/pixel_experience_2020_midyear.xml
 product/etc/sysconfig/pixel_experience_2020.xml
 product/etc/sysconfig/pixel_experience_2021_midyear.xml
 product/etc/sysconfig/pixel_experience_2021.xml
+product/etc/sysconfig/quick_tap.xml
 product/fonts/GoogleSans-Italic.ttf
 product/fonts/GoogleSans-Regular.ttf
 product/media/audio/alarms/A_real_hoot.ogg
